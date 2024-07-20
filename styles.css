@@ -33,3 +33,15 @@ button {
 button:hover {
     background-color: #45a049;
 }
+
+#about {
+    background-color: #e0e0e0;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+@media (max-width: 600px) {
+    body {
+        font-size: 14px;
+    }
+}
