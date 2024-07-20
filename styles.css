@@ -31,7 +31,7 @@ button {
 }
 
 button:hover {
-    background-color: #45a049;
+    background-color: #5a10e4;
 }
 
 #about {
@@ -44,4 +44,18 @@ button:hover {
     body {
         font-size: 14px;
     }
+}
+
+nav {
+    margin-top: 10px;
+}
+
+nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #4CAF50;
+}
+
+nav a:hover {
+    text-decoration: underline;
 }
